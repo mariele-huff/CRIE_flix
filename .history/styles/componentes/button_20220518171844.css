@@ -24,8 +24,5 @@
     }
     .button--large{
         height: 48px;
-        font-size: var(--font-size-default);
-        line-height: 22px;
-        padding: 14px 16px;
     }
 }

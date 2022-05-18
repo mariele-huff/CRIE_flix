@@ -65,7 +65,6 @@
         overflow: auto hidden;
         scrollbar-width: none;
         margin: 40px -16px 0 -16px;
-        padding: 0 16px;
     }
    
     .header__menu::-webkit-scrollbar{

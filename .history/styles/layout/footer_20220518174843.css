@@ -43,14 +43,13 @@
 }
 .footer__logo{
     width: 100px;
-    margin-right: 0;
 }
 .footer__nav{
     margin: 32px 0;
 }
 .footer__nav__link{
     font-size: 14px;
-    padding: 0 32px;
+    padding: 32px;
 
 }
 .footer__copy{

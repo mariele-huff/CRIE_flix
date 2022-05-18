@@ -21,9 +21,6 @@
     text-decoration: none;
     margin-right: 24px;
 }
-.header_menu_itens:last-child{
-    margin-right: 0;
-}
 .header_menu_itens svg{
     fill: var(--color-light-gray);
 }
@@ -64,16 +61,13 @@
         display: flex;
         overflow: auto hidden;
         scrollbar-width: none;
-        margin: 40px -16px 0 -16px;
-        padding: 0 16px;
     }
-   
+    .header_menu_itens{
+        flex-shrink: 0;
+    }
     .header__menu::-webkit-scrollbar{
         width: 0;
         height: 0;
-}
-.header_menu_itens{
-    flex-shrink: 0;
 }
 
 }

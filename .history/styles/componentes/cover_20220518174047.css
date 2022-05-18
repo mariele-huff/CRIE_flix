@@ -42,13 +42,12 @@
     margin-right: 12px;
 }
 .cover--large{
-    width: 270px;
-    height: 165px;
+    width: 170px;
+    height: 175px;
 }
 .cover__title{
     font-size: 11px;
     line-height: 12px;
-    padding: 4px;
 
 }
 

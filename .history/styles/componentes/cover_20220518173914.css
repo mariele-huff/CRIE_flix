@@ -41,14 +41,9 @@
     height: 135px;
     margin-right: 12px;
 }
-.cover--large{
-    width: 270px;
-    height: 165px;
-}
 .cover__title{
     font-size: 11px;
     line-height: 12px;
-    padding: 4px;
 
 }
 
