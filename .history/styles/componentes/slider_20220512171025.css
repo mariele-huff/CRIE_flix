@@ -1,0 +1,9 @@
+.slider__title{
+    color:var(--color-white);
+    font-size: 32px;
+    line-height: 40px;
+    letter-spacing: -0.5px;
+}
+.slider{
+    margin: 70px;
+}

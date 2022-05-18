@@ -3,7 +3,7 @@
     padding: 10px 24px;
     font-size: var(--font-size-default);
     line-height: 22px;
-    border-radius: var(--border-radius-default);
+    border-radius: 3px;
     color: var(--color-white);
     background-color:var(--color-red) ;
     text-decoration: none;

@@ -42,7 +42,7 @@
 }
 
 .header_menu_itens--active svg{
-    fill:var(--color-white);
+    fill:white;
 }
 
 

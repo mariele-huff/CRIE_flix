@@ -9,7 +9,7 @@
 }
 
 .banner__content{
-    margin-left: 70px;
+    margin-left: 80px;
 }
 
 
@@ -18,12 +18,12 @@
     font-size: 65px;
     line-height: 72px;
     letter-spacing: -1.5px;
-    color: var(--color-white);
+    color: white;
     margin-bottom: 20px;
 }
 .banner__subtitle{
     font-size: 20px;
     line-height: 32px;
-    color:var(--color-white);
+    color:white;
     margin-bottom: 40px;
 }
